@@ -13,7 +13,10 @@
 
 
 1 лабораторная работа: 
+
 файл для работы - https://docs.google.com/spreadsheets/d/1SClC617jlbvVd8GgoYqUnFuUVxXi4J3zTzIrWRZi6I8/edit?usp=sharing
+
 профиль - https://vk.com/alice_samoilova
+
 менеджер паролей - https://keepassxc.org/
 
