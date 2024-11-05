@@ -13,10 +13,24 @@
 
 
 1 лабораторная работа: 
-
-файл для работы - https://docs.google.com/spreadsheets/d/1SClC617jlbvVd8GgoYqUnFuUVxXi4J3zTzIrWRZi6I8/edit?usp=sharing
-
-профиль - https://vk.com/alice_samoilova
-
+-----
 менеджер паролей - https://keepassxc.org/
 
+**Допзадание 1**
+-----
+Написать программу, которая генерирует пароли по заданной маске
+ 
+**Допзадание 2**
+-----
+Найти пароли по заданному хешу
+
+
+Хэши
+1. $1$ia.2Npjc$CpKpe2T2kY.gE/VR.FIs31
+
+2. $5$KeQ1e17Xnr2IgeCB$v2ERNeIMpRwx9P5bw80N6361wkDfKPm5qm7ciAFUXsA
+
+3. $6$Y9Uck80w/XmN8z.n$zEdAxGig.pIm91u.w4L/ntHEBAmfwSG0bggCZqaK7APZRiJkyP2gawg/mj/zPVQNXba20vLnFGjmZlw8iY.u90
+	
+	
+подсказка: John the Ripper
