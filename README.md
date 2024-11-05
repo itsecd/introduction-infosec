@@ -9,3 +9,11 @@
 | 3   | [Уровни информационной безопасности](https://github.com/itsecd/introduction-infosec/blob/main/lectures/3%20-%20%D0%A3%D1%80%D0%BE%D0%B2%D0%BD%D0%B8%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.pdf)                                                                                                                                                                                                                                                                                                                         |
 | 4   | [Введение в криптографию](https://github.com/itsecd/introduction-infosec/blob/main/lectures/4%20-%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8E.pdf)                                                                                                                                                                                                                                                                                                                                    |
 | 5   | [Цифровая гигиента. Цифровые профили. OSINT](https://github.com/itsecd/introduction-infosec/blob/main/lectures/5%20-%20%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B3%D0%B8%D0%B3%D0%B8%D0%B5%D0%BD%D1%82%D0%B0.%20%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B8.%20OSINT.pdf)
+
+
+
+1 лабораторная работа: 
+файл для работы - https://docs.google.com/spreadsheets/d/1SClC617jlbvVd8GgoYqUnFuUVxXi4J3zTzIrWRZi6I8/edit?usp=sharing
+профиль - https://vk.com/alice_samoilova
+менеджер паролей - https://keepassxc.org/
+
