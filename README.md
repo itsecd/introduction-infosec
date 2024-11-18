@@ -20,6 +20,7 @@
 - менеджер паролей - https://keepassxc.org/
 - рабочая таблица - https://docs.google.com/spreadsheets/d/1zE55VLQTq-BQOszfik9ZzPO5pPKFxEip-qLb308BHzk/edit?usp=sharing
 - профиль пользователя - https://vk.com/alice_samoilova
+- файл для скачивания - https://dropmefiles.com/K8tlH
     
 Доп. задание 1
 
