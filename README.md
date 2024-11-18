@@ -18,8 +18,8 @@
 1 лабораторная работа: 
 -----
 - менеджер паролей - https://keepassxc.org/
-- рабочая таблица - https://docs.google.com/spreadsheets/d/1iyQfDg7RYfr4AduZwJsQXrOZxqdDLm6IulhVZz-v1Uw/edit?usp=sharing
-- файл - https://dropmefiles.com/okVDU
+- рабочая таблица - https://docs.google.com/spreadsheets/d/1zE55VLQTq-BQOszfik9ZzPO5pPKFxEip-qLb308BHzk/edit?usp=sharing
+- файл - 
     
 Доп. задание 1
 
