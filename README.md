@@ -13,24 +13,32 @@
 | 6 | [OSINT](https://github.com/itsecd/introduction-infosec/blob/main/lectures/6%20-%20OSINT.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | 7 | [Вирусология](https://github.com/itsecd/introduction-infosec/tree/main/lectures/7%20-%20%D0%92%D0%B8%D1%80%D1%83%D1%81%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
-1 лабораторная работа: 
+Успеваемость
+------
+https://docs.google.com/spreadsheets/d/1TW57kuce4FrlPzLYbYVzDq70FXQ8eLmdv6Zc94_aop8/edit?usp=sharing
+
+
+1 лабораторная работа 
 -----
 - менеджер паролей - https://keepassxc.org/
-- рабочая таблица
-- профиль пользователя
-- файл для скачивания
+- методичка - [ссылка](https://docs.google.com/document/d/1VpCvyQ4vE2157N0yHsMrU867VZ7FWxGwjk4c0To9Pew/)
+- 
+    Доп. задание 1: 
     
-Доп. задание 1
-
-    Написать программу, которая генерирует пароли по заданной маске.
+        Написать программу, которая генерирует пароли по заданной маске.
      
-Доп. задание 2
-
-    Найти пароли по заданному хешу.
+- Доп. задание 2
     
-    Хэши
-    1. $1$ia.2Npjc$CpKpe2T2kY.gE/VR.FIs31
-    2. $5$KeQ1e17Xnr2IgeCB$v2ERNeIMpRwx9P5bw80N6361wkDfKPm5qm7ciAFUXsA
-    3. $6$Y9Uck80w/XmN8z.n$zEdAxGig.pIm91u.w4L/ntHEBAmfwSG0bggCZqaK7APZRiJkyP2gawg/mj/zPVQNXba20vLnFGjmZlw8iY.u90
+        Найти пароли по заданному хешу.
         
-    подсказка: John the Ripper
+        Хэши
+        1. $1$ia.2Npjc$CpKpe2T2kY.gE/VR.FIs31
+        2. $5$KeQ1e17Xnr2IgeCB$v2ERNeIMpRwx9P5bw80N6361wkDfKPm5qm7ciAFUXsA
+        3. $6$Y9Uck80w/XmN8z.n$zEdAxGig.pIm91u.w4L/ntHEBAmfwSG0bggCZqaK7APZRiJkyP2gawg/mj/zPVQNXba20vLnFGjmZlw8iY.u90
+
+        подсказка: John the Ripper
+
+
+2 лабораторная работа
+-----
+- методичка - [ссылка](https://docs.google.com/document/d/1i0Wy9cnKKRWLt6cghMHpNqXieZ_R-Tp0FtZSWEyRpNs/)
