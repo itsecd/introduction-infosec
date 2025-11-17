@@ -22,6 +22,7 @@ https://docs.google.com/spreadsheets/d/1TW57kuce4FrlPzLYbYVzDq70FXQ8eLmdv6Zc94_a
 -----
 - менеджер паролей - https://keepassxc.org/
 - методичка - [ссылка](https://docs.google.com/document/d/1VpCvyQ4vE2157N0yHsMrU867VZ7FWxGwjk4c0To9Pew/)
+- файлы менеджера паролей - [ссылка](https://github.com/itsecd/introduction-infosec/tree/main/lab1)
 - 
     Доп. задание 1: 
     
