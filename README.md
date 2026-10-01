@@ -1,4 +1,4 @@
-**Введение в специальность, 1 курс.**
+**Введение в кибербезопасность, 1 курс.**
 
 Лекционные материалы: 
 https://github.com/itsecd/introduction-infosec/tree/main/lectures
