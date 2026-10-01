@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d109ced1-bb12-4667-b474-e4e91bf52673" name="Changes" comment="add lectures" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2mxepyGFubJi8kaEpdvkJE8MvKa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\introduction-infosec\lectures" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d109ced1-bb12-4667-b474-e4e91bf52673" name="Changes" comment="" />
+      <created>1728022841107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728022841107</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add lectures 3,4">
+      <created>1728023087944</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728023087944</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add links for lectures 3,4">
+      <created>1728023140392</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728023140392</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add links for lectures 6-8">
+      <created>1730803871160</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730803871160</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add links for lectures 6-8">
+      <created>1730803981205</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730803981205</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edit tasks">
+      <created>1730804361765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730804361765</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add lectures">
+      <created>1760011320646</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760011320646</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add lectures">
+      <created>1760703901885</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1760703901885</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add lectures">
+      <created>1760704128287</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760704128287</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add lectures">
+      <created>1762254990678</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1762254990678</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add lectures">
+      <created>1762255052590</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1762255052590</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add lectures">
+      <created>1762255092808</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762255092808</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add lectures">
+      <created>1762855536822</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1762855536822</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add lectures">
+      <created>1762855565732</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1762855565732</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add lectures">
+      <created>1762855583275</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1762855583275</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add lectures">
+      <created>1763038824925</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1763038824925</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add files">
+      <created>1763122216280</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1763122216280</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add lectures">
+      <created>1763379371113</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1763379371113</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add lectures">
+      <created>1763379406044</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1763379406044</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add lectures">
+      <created>1763379474905</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1763379474905</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add lectures">
+      <created>1764916031574</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1764916031574</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add lectures 3,4" />
+    <MESSAGE value="add links for lectures 3,4" />
+    <MESSAGE value="add links for lectures 6-8" />
+    <MESSAGE value="edit tasks" />
+    <MESSAGE value="add files" />
+    <MESSAGE value="add lectures" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lectures" />
+  </component>
+</project>
